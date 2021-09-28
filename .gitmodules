@@ -1,24 +1,24 @@
 [submodule "cli"]
 	path = cli
-	url = git@github.com:annexi-strayline/ASAP-CLI.git
+	url = https://github.com/annexi-strayline/ASAP-CLI.git
 [submodule "uuids"]
 	path = uuids
-	url = git@github.com:annexi-strayline/ASAP-UUIDs.git
+	url = https://github.com/annexi-strayline/ASAP-UUIDs.git
 [submodule "unicode"]
 	path = unicode
-	url = git@github.com:annexi-strayline/ASAP-Unicode.git
+	url = https://github.com/annexi-strayline/ASAP-Unicode.git
 [submodule "simple_http"]
 	path = simple_http
-	url = git@github.com:annexi-strayline/ASAP-Simple_HTTP.git
+	url = https://github.com/annexi-strayline/ASAP-Simple_HTTP.git
 [submodule "modular_hashing"]
 	path = modular_hashing
-	url = git@github.com:annexi-strayline/ASAP-Modular_Hashing.git
+	url = https://github.com/annexi-strayline/ASAP-Modular_Hashing.git
 [submodule "json"]
 	path = json
-	url = git@github.com:annexi-strayline/ASAP-JSON.git
+	url = https://github.com/annexi-strayline/ASAP-JSON.git
 [submodule "inet"]
 	path = inet
-	url = git@github.com:annexi-strayline/ASAP-INET.git
+	url = https://github.com/annexi-strayline/ASAP-INET.git
 [submodule "hex"]
 	path = hex
-	url = git@github.com:annexi-strayline/ASAP-HEX.git
+	url = https://github.com/annexi-strayline/ASAP-HEX.git
