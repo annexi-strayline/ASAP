@@ -9,6 +9,6 @@ Replace _X with the appropriate number for your project.
 package AURA.Respository_X with Pure is
     Format         : constant Repository_Format := git;
     Location       : constant String            := "https://github.com/annexi-strayline/ASAP.git";
-    Tracking_Branch: constant String            := "stable-0.1";
+    Tracking_Branch: constant String            := "stable-1.0.x.y";
 end AURA.Repository_X;
 ```
